@@ -1,0 +1,7 @@
+README.md
+scType_Predict.egg-info/PKG-INFO
+scType_Predict.egg-info/SOURCES.txt
+scType_Predict.egg-info/dependency_links.txt
+scType_Predict.egg-info/not-zip-safe
+scType_Predict.egg-info/requires.txt
+scType_Predict.egg-info/top_level.txt

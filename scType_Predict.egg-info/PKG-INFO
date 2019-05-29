@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: scType-Predict
+Version: 0.0.1
+Summary: Demo project
+Home-page: https://github.com/theislab
+Author: SubarnaPalit
+Author-email: subarna.palit@helmholtz-muenchen.de
+License: MIT
+Description-Content-Type: text/markdown
+Description: UNKNOWN
+Keywords: core package
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
